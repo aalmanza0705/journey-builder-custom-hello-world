@@ -15,10 +15,10 @@ var app = express();
 // Register configs for the environments where the app functions
 // , these can be stored in a separate file using a module like config
 var APIKeys = {
-    appId           : '__insert_your_app_id__',
-    clientId        : '__insert_your_app_client_id__',
-    clientSecret    : '__insert_your_app_client_secret__',
-    appSignature    : '__insert_your_app_signature__',
+    appId           : 'a46b8786-4c91-40b4-bbaf-fcc90bfcc2e2',
+    clientId        : '96m07r5qeawu0ykaneitsy2n',
+    clientSecret    : '63QihVdkDpUREkxMTJh6yU2g',
+    appSignature    : 'https://appcenter.s1.marketingcloudapps.com/#',
     authUrl         : 'https://auth.exacttargetapis.com/v1/requestToken?legacy=1'
 };
 
